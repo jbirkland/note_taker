@@ -1,7 +1,7 @@
 {
-  "name": "note_taker",
+  "name": "thinkIt_inkIt",
   "version": "1.0.0",
-  "description": "",
+  "description": "- [Description](#description)\r - [Installation](#installation)\r - [Usage](#usage)\r - [License](#license)\r - [Badges](#badges)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jbirkland/note_taker/issues"
   },
-  "homepage": "https://github.com/jbirkland/note_taker#readme"
+  "homepage": "https://github.com/jbirkland/note_taker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
