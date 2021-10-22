@@ -9,6 +9,7 @@ var PORT = process.env.PORT || 3001;
 
 app.use(express.urlencoded({extended:true}));
 app.use(express.json());
+app.use(express.static(public)); 
 
 
 
@@ -46,4 +47,4 @@ app.get("/notes", function (req, res){
 app.listen(PORT, function(){
   console.log("App is listening with PORT" + PORT);
 })
-// app.use(express.static(public));  
+ 
