@@ -11,6 +11,6 @@ The idea is for a user to be able to use the application to organize thoughts an
 ![notes-page](https://user-images.githubusercontent.com/87788419/139428769-6697a9f4-f9ae-4911-bf04-06b00e77357d.png)
 
 
-## Link to the Deployed Page
+#### Link to the Deployed Page
 
 Here is a link to my delpoyed code. https://jbirkland-note-taker.herokuapp.com/![home-page]
